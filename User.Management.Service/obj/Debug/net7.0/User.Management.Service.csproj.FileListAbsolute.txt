@@ -1,0 +1,12 @@
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\bin\Debug\net7.0\User.Management.Service.deps.json
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\bin\Debug\net7.0\User.Management.Service.dll
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\bin\Debug\net7.0\User.Management.Service.pdb
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.csproj.AssemblyReference.cache
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.AssemblyInfoInputs.cache
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.AssemblyInfo.cs
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.csproj.CoreCompileInputs.cache
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.dll
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\refint\User.Management.Service.dll
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.pdb
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\ref\User.Management.Service.dll
