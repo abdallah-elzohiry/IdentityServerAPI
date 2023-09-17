@@ -23,6 +23,9 @@ namespace User.Management.API
             .AddEntityFrameworkStores<ApplicatinDbContext>()
             .AddDefaultTokenProviders();
 
+            // Add Config for Required Email
+            builder.Services.Configure<IdentityOptions>(opt => opt.SignIn.RequireConfirmedEmail = true);
+
             // Add Authentication 
             builder.Services.AddAuthentication(option =>
             {

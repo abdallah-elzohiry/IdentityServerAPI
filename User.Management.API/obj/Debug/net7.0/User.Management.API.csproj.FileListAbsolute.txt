@@ -87,3 +87,4 @@ D:\Projects\VS - 2022\UserManagementAPI\User.Management.API\bin\Debug\net7.0\NET
 D:\Projects\VS - 2022\UserManagementAPI\User.Management.API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
 D:\Projects\VS - 2022\UserManagementAPI\User.Management.API\bin\Debug\net7.0\User.Management.Service.dll
 D:\Projects\VS - 2022\UserManagementAPI\User.Management.API\bin\Debug\net7.0\User.Management.Service.pdb
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.API\obj\Debug\net7.0\User.Management.API.sourcelink.json

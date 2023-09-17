@@ -10,3 +10,4 @@ D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0
 D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\refint\User.Management.Service.dll
 D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.pdb
 D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\ref\User.Management.Service.dll
+D:\Projects\VS - 2022\UserManagementAPI\User.Management.Service\obj\Debug\net7.0\User.Management.Service.sourcelink.json
